@@ -1,4 +1,4 @@
-#Week 1
+Week 1
 Topics Learned
 Git and GitHub: Learned version control and code sharing.
 HTML: Learned to create webpage structures.
